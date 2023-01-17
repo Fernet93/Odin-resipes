@@ -1,0 +1,17 @@
+.bold {
+    font-size: 25px;
+}
+
+.bold.head {
+    font-size: 32px;
+}
+
+.bilde1 {
+    height: auto;
+    width: 600px;
+}
+
+.bilde2 {
+    height: auto;
+    width: 600px;
+}
