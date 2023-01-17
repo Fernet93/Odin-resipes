@@ -2,10 +2,27 @@
     font-size: 32px;
     font-weight: 700px;   
 }
+* {
+    text-align: center;
+    background: dimgray;
+}
 
-.b {
-   
+
+.box {
+    width: 500px;
+    margin: 0 auto;
     font-size: 20px;
-    color: black;
+    border: 
+    
 
 }
+
+.b {
+    width: 200px;
+    margin: 0 auto;
+    padding: 10px;
+    border: 
+    
+
+}
+
